@@ -2,6 +2,9 @@
 Our Code Culture is based on the ideas of Martin Fowler, Uncle Bob, Eric Evans, Kent Beck and other legends of coding. We believe that:
 >Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 
+as well as:
+>The real problem is that programmers have spent far too much time worrying about efficiency in the wrong places and at the wrong times; premature optimization is the root of all evil (or at least most of it) in programming.
+
 ## Reading List
 
 * [Clean Code, by Uncle Bob Martin](https://www.goodreads.com/book/show/3735293-clean-code)
